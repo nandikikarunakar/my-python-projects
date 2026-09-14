@@ -18,12 +18,15 @@ I'll add it here and keep moving forward.
 |---|---------|----------------|
 | 01 | [Band Name Generator](./01-band-name-generator) | `print()`, `input()`, variables, string concatenation |
 | 02 | [BMI Calculator](./02-BMI-calculator) | Variables, `input()`, type conversion, arithmetic operations |
+| 03 | [Tip Calculator](./03-tip-calculator) | Variables, user input, type conversion, arithmetic operations |
+
 
 ## 📈 Progress
 
 - [x] 01 -- Band Name Generator
 - [x] 02 -- BMI Calculator
-- [ ] 03 -- Coming soon...
+- [x] 03 -- Tip Calculator
+- [ ] 04 -- Coming soon...
 
 ## 🧠 What I'm Learning
 
