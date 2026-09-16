@@ -20,6 +20,7 @@ I'll add it here and keep moving forward.
 | 02 | [BMI Calculator](./02-BMI-calculator) | Variables, `input()`, type conversion, arithmetic operations |
 | 03 | [Tip Calculator](./03-tip-calculator) | Variables, user input, type conversion, arithmetic operations |
 | 04 | [Treasure Island](./04-treasure-island) | `if`, `elif`, `else`, conditional logic, user choices |
+| 05 | [Random Heads or Tails](./05-random-heads-or-tails) | `random.choice()`, input, conditions, comparison |
 
 
 ## 📈 Progress
@@ -28,8 +29,8 @@ I'll add it here and keep moving forward.
 - [x] 02 -- BMI Calculator
 - [x] 03 -- Tip Calculator
 - [x] 04 -- Treasure Island
-- [ ] 05 -- Coming soon...
-
+- [x] 05 -- Random Heads or Tails
+- [ ] 06 -- Coming soon...
 ## 🧠 What I'm Learning
 
 - Python fundamentals
@@ -37,7 +38,11 @@ I'll add it here and keep moving forward.
 - User input and output
 - Type conversion
 - Operators and expressions
-- Problem-solving through projects
+- String manipulation
+- Conditional statements
+- Randomization
+- Problem-solving
+- Building project from scratch
 
 ## 🌱 Learning Philosophy
 
@@ -47,5 +52,12 @@ I'm not focusing on how fast I complete the projects.
 I'm focusing on understanding what I learn and getting better with every project.
 
 ---
+## 📌 What's Next?
+
+Keep learning.  
+Keep building.  
+Keep improving.
+
+**One project at a time. 🚀**
 
 ⭐ More projects will be added as I continue my journey.
