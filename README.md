@@ -21,6 +21,7 @@ I'll add it here and keep moving forward.
 | 03 | [Tip Calculator](./03-tip-calculator) | Variables, user input, type conversion, arithmetic operations |
 | 04 | [Treasure Island](./04-treasure-island) | `if`, `elif`, `else`, conditional logic, user choices |
 | 05 | [Random Heads or Tails](./05-random-heads-or-tails) | `random.choice()`, input, conditions, comparison |
+| 06 | [Rock Paper Scissors](./06-rock-paper-scissors) | Lists, `random.choice()`, conditions, game logic |
 
 
 ## 📈 Progress
@@ -30,7 +31,9 @@ I'll add it here and keep moving forward.
 - [x] 03 -- Tip Calculator
 - [x] 04 -- Treasure Island
 - [x] 05 -- Random Heads or Tails
-- [ ] 06 -- Coming soon...
+- [x] 06 — Rock Paper Scissors
+- [ ] 07 -- Coming soon...
+      
 ## 🧠 What I'm Learning
 
 - Python fundamentals
@@ -40,6 +43,7 @@ I'll add it here and keep moving forward.
 - Operators and expressions
 - String manipulation
 - Conditional statements
+- Lists
 - Randomization
 - Problem-solving
 - Building project from scratch
