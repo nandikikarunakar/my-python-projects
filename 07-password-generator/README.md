@@ -19,8 +19,8 @@ Today I learned:
 
 ## 🔄 Concepts I Applied
 
-- `random.choice()` — previously learned and used again
-- `random.shuffle()` — newly learned
+- `random.choice()` - previously learned and used again
+- `random.shuffle()` - newly learned
 - Lists
 - `input()`
 - `int()`
