@@ -17,11 +17,12 @@ I'll add it here and keep moving forward.
 | # | Project | What I Learned |
 |---|---------|----------------|
 | 01 | [Band Name Generator](./01-band-name-generator) | `print()`, `input()`, variables, string concatenation |
-| 02 | [BMI Calculator](./02-BMI-calculator) | Variables, `input()`, type conversion, arithmetic operations |
+| 02 | [BMI Calculator](./02-bmi-calculator) | Variables, `input()`, type conversion, arithmetic operations |
 | 03 | [Tip Calculator](./03-tip-calculator) | Variables, user input, type conversion, arithmetic operations |
-| 04 | [Treasure Island](./04-treasure-island) | `if`, `elif`, `else`, conditional logic, user choices |
+| 04 | [Treasure Island](./04-treasure-island-game) | `if`, `elif`, `else`, conditional logic, user choices |
 | 05 | [Random Heads or Tails](./05-random-heads-or-tails) | `random.choice()`, input, conditions, comparison |
 | 06 | [Rock Paper Scissors](./06-rock-paper-scissors) | Lists, `random.choice()`, conditions, game logic |
+| 07 | [Password Generator](./07-password-generator) | Lists, loops, `random.choice()`, `random.shuffle()` |
 
 
 ## 📈 Progress
@@ -31,8 +32,9 @@ I'll add it here and keep moving forward.
 - [x] 03 -- Tip Calculator
 - [x] 04 -- Treasure Island
 - [x] 05 -- Random Heads or Tails
-- [x] 06 — Rock Paper Scissors
-- [ ] 07 -- Coming soon...
+- [x] 06 -- Rock Paper Scissors
+- [x] 07 -- Password Generator
+- [ ] 08 -- coming soon...
       
 ## 🧠 What I'm Learning
 
@@ -44,6 +46,7 @@ I'll add it here and keep moving forward.
 - String manipulation
 - Conditional statements
 - Lists
+- loops
 - Randomization
 - Problem-solving
 - Building project from scratch
