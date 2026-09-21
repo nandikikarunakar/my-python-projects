@@ -23,6 +23,7 @@ I'll add it here and keep moving forward.
 | 05 | [Random Heads or Tails](./05-random-heads-or-tails) | `random.choice()`, input, conditions, comparison |
 | 06 | [Rock Paper Scissors](./06-rock-paper-scissors) | Lists, `random.choice()`, conditions, game logic |
 | 07 | [Password Generator](./07-password-generator) | Lists, loops, `random.choice()`, `random.shuffle()` |
+| 08 | [FizzBuzz](./08-fizz-buzz) | `for` loops, `range()`, `%` modulo, conditions, `and` |
 
 
 ## 📈 Progress
@@ -34,7 +35,8 @@ I'll add it here and keep moving forward.
 - [x] 05 -- Random Heads or Tails
 - [x] 06 -- Rock Paper Scissors
 - [x] 07 -- Password Generator
-- [ ] 08 -- coming soon...
+- [x] 08 — FizzBuzz
+- [ ] 09 -- coming soon...
       
 ## 🧠 What I'm Learning
 
