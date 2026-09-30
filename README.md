@@ -14,18 +14,18 @@ I'll add it here and keep moving forward.
 
 ## 📂 Projects
 
-| # | Project | What I Learned |
-|---|---------|----------------|
-| 01 | [Band Name Generator](./01-band-name-generator) | `print()`, `input()`, variables, string concatenation |
-| 02 | [BMI Calculator](./02-bmi-calculator) | Variables, `input()`, type conversion, arithmetic operations |
-| 03 | [Tip Calculator](./03-tip-calculator) | Variables, user input, type conversion, arithmetic operations |
-| 04 | [Treasure Island](./04-treasure-island-game) | `if`, `elif`, `else`, conditional logic, user choices |
-| 05 | [Random Heads or Tails](./05-random-heads-or-tails) | `random.choice()`, input, conditions, comparison |
-| 06 | [Rock Paper Scissors](./06-rock-paper-scissors) | Lists, `random.choice()`, conditions, game logic |
-| 07 | [Password Generator](./07-password-generator) | Lists, loops, `random.choice()`, `random.shuffle()` |
-| 08 | [FizzBuzz](./08-fizz-buzz) | `for` loops, `range()`, `%` modulo, conditions, `and` |
-| 09 | [Temperature Converter](./09-temperature-converter) | Functions, user input, type conversion, arithmetic operations |
-| 10 | [Hangman Game](./10-hangman-game) | `random`, loops, strings, lists, game logic, custom modules |
+| #   | Project                                             | What I Learned                                                |
+| --- | --------------------------------------------------- | ------------------------------------------------------------- |
+| 01  | [Band Name Generator](./01-band-name-generator)     | `print()`, `input()`, variables, string concatenation         |
+| 02  | [BMI Calculator](./02-bmi-calculator)               | Variables, `input()`, type conversion, arithmetic operations  |
+| 03  | [Tip Calculator](./03-tip-calculator)               | Variables, user input, type conversion, arithmetic operations |
+| 04  | [Treasure Island](./04-treasure-island-game)        | `if`, `elif`, `else`, conditional logic, user choices         |
+| 05  | [Random Heads or Tails](./05-random-heads-or-tails) | `random.choice()`, input, conditions, comparison              |
+| 06  | [Rock Paper Scissors](./06-rock-paper-scissors)     | Lists, `random.choice()`, conditions, game logic              |
+| 07  | [Password Generator](./07-password-generator)       | Lists, loops, `random.choice()`, `random.shuffle()`           |
+| 08  | [FizzBuzz](./08-fizz-buzz)                          | `for` loops, `range()`, `%` modulo, conditions, `and`         |
+| 09  | [Temperature Converter](./09-temperature-converter) | Functions, user input, type conversion, arithmetic operations |
+| 10  | [Hangman Game](./10-hangman-game)                   | `random`, loops, strings, lists, game logic, custom modules   |
 
 ## 📈 Progress
 
@@ -39,6 +39,7 @@ I'll add it here and keep moving forward.
 - [x] 08 -- FizzBuzz
 - [x] 09 -- Temperature Converter
 - [x] 10 -- Hangman Game
+- [ ] 11 -- coming soon...
 
 **10 projects completed and counting! 🚀**
 
