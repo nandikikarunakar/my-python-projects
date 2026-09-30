@@ -2,14 +2,14 @@
 
 Welcome to my Python learning journey!
 
-This repository is where I document the projects I build while learning Python. 
+This repository is where I document the projects I build while learning Python.  
 Each project represents something new I learned, practiced, and implemented.
 
 ## 🚀 My Journey
 
 I'm learning Python by building projects step by step.
 
-I may not code every day, but whenever I learn something new and build something with it,
+I may not code every day, but whenever I learn something new and build something with it,  
 I'll add it here and keep moving forward.
 
 ## 📂 Projects
@@ -24,7 +24,8 @@ I'll add it here and keep moving forward.
 | 06 | [Rock Paper Scissors](./06-rock-paper-scissors) | Lists, `random.choice()`, conditions, game logic |
 | 07 | [Password Generator](./07-password-generator) | Lists, loops, `random.choice()`, `random.shuffle()` |
 | 08 | [FizzBuzz](./08-fizz-buzz) | `for` loops, `range()`, `%` modulo, conditions, `and` |
-
+| 09 | [Temperature Converter](./09-temperature-converter) | Functions, user input, type conversion, arithmetic operations |
+| 10 | [Hangman Game](./10-hangman-game) | `random`, loops, strings, lists, game logic, custom modules |
 
 ## 📈 Progress
 
@@ -35,9 +36,12 @@ I'll add it here and keep moving forward.
 - [x] 05 -- Random Heads or Tails
 - [x] 06 -- Rock Paper Scissors
 - [x] 07 -- Password Generator
-- [x] 08 — FizzBuzz
-- [ ] 09 -- coming soon...
-      
+- [x] 08 -- FizzBuzz
+- [x] 09 -- Temperature Converter
+- [x] 10 -- Hangman Game
+
+**10 projects completed and counting! 🚀**
+
 ## 🧠 What I'm Learning
 
 - Python fundamentals
@@ -48,19 +52,23 @@ I'll add it here and keep moving forward.
 - String manipulation
 - Conditional statements
 - Lists
-- loops
+- Loops
+- Functions
 - Randomization
 - Problem-solving
-- Building project from scratch
+- Game logic
+- Working with multiple Python files
+- Building projects from scratch
 
 ## 🌱 Learning Philosophy
 
 > **Learn → Build → Practice → Improve → Repeat 🔁**
 
-I'm not focusing on how fast I complete the projects.
+I'm not focusing on how fast I complete the projects.  
 I'm focusing on understanding what I learn and getting better with every project.
 
 ---
+
 ## 📌 What's Next?
 
 Keep learning.  
