@@ -68,9 +68,7 @@ I'll add it here and keep moving forward.
 I'm not focusing on how fast I complete the projects.  
 I'm focusing on understanding what I learn and getting better with every project.
 
----
-
-## 📌 What's Next?
+## 📌 What's Next ?
 
 Keep learning.  
 Keep building.  
